@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
+  "expoServerNgrokUrl": "https://2c-8qk.anonymous.live-tesla-app-react-native-main.exp.direct",
+  "packagerNgrokUrl": "https://packager.2c-8qk.anonymous.live-tesla-app-react-native-main.exp.direct",
+  "ngrokPid": 15836,
+  "packagerPid": null,
+  "webpackServerPort": null
+}
